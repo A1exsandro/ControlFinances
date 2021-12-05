@@ -7,3 +7,4 @@ Mudando Js para Ts
 Styled Components yarn add styled-components // yarn add @types/styled-components-react-native -D
     corrijir, pois instalei sem ser dependência de desenvolvimento
 # Criando estilos globais
+
